@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+
+# Backend database
+backend/meditwin.db
+
+# Uploaded medical files
+backend/uploads/
+
+# Environment variables
+.env
+.env.*
+
+# Frontend dependencies
+frontend/node_modules/
+
+# Frontend build
+frontend/dist/
+
+# Vite
+frontend/.vite/
+
+# Logs
+*.log
+
+# Root Node dependencies
+node_modules/
